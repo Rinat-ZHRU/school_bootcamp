@@ -1,0 +1,7 @@
+# создали файл со списком тех файлов и папок которые не будут отправляться в ГИТ
+venv
+db.sqlite3
+.idea
+idea/workspace.xml
+__pycache__
+media
