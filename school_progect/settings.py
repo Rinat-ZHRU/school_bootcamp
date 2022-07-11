@@ -28,9 +28,11 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # third party  установили сторонние приложухи
     'rest_framework',
-    # my apps    добавили вновь созданные приложения
+    # my apps добавили вновь созданные приложения
     'courses_app',
     'students_app',
+    'school_app',
+    'employee_app',
 ]
 
 MIDDLEWARE = [
